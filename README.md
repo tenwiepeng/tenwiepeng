@@ -1,4 +1,4 @@
 ## Portfolio - under development 
 
-[Link](https://tenwiepeng.github.io/)
+[Link](https://tenwiepeng.herokuapp.com)
 
